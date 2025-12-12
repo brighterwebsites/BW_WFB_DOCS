@@ -35,9 +35,39 @@ You've made significant progress since initial ALTC implementation:
 
 This positions Brighter Websites as **THE regional authority on AI-ready conversion infrastructure** \- not just another web designer explaining basics, but the strategist defining what "future-proof" actually means.
 
+**Niche: Offline-Sale Businesses**
+
+Businesses where:
+- Website generates leads (not e-commerce transactions)
+- Sales close offline through discovery → design/spec → proposal
+- Trust is critical to closing (consultative sales cycle)
+- Examples: Configurable steel products, custom services, repeatable packages
+
+**Why this matters:** 
+Voice gap - no competitor specializes in offline conversion vs e-commerce.
+
 ---
 
 ## **PRIORITY ALTC CLUSTERS *(Refined Strategic Positioning)***
+
+**Four Primary ALTCs (Priority Ranked as of December 2025):**
+
+1. **AI-First SEO & Future-Proof Visibility** (PRIMARY FOCUS)
+   - Strongest voice gap in market
+   - 80% effort allocation Q1 2025
+   - Backed by Guerrilla Steel proof
+   
+2. **Conversion-Focused Website Design** (SECONDARY FOCUS)
+   - Differentiated through offline-sale niche
+   - 15% effort allocation
+   
+3. **Technical Foundations & Performance** (SUPPORTING)
+   - Saturated positioning, transparency differentiates
+   - 5% effort allocation
+   
+4. **Local Lead Generation** (DE-EMPHASIZE)
+   - Table stakes, everyone owns local
+   - Maintain but don't lead with this
 
 ### **ALTC 1: AI-First SEO & Future-Proof Visibility**
 

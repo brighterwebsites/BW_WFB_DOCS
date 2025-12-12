@@ -181,6 +181,19 @@ This single question replaces 20-40 hours of keyword research and creates strate
 
 ### **Voice Gaps We Own**
 
+**Competitive Moat (December 2025):**
+
+**Voice Gaps Owned:**
+1. AI-ready SEO positioning (nobody else owns "AI voice share")
+2. Framework IP (ALTC + WFB trademarked)
+3. Measurable proof (revenue outcomes, not portfolio volume)
+4. Algorithm resilience narrative (September 2024 survival)
+
+**Competitors Tracked:**
+- Primary: Stoke Design (SEO tool monthly)
+- Secondary: Seamer Design, Gasoline Media (SEO tool monthly)
+- Monitoring: All 7 Ballarat agencies (NotebookLM quarterly)
+
 **What we said in early 2025 that others didnt**:
 
 - "Keywords are dead" (positioning first, keywords validate)  
